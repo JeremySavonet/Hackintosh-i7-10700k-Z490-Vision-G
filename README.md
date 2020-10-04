@@ -8,17 +8,16 @@
 
 ![HW overview](screenshot/hw-over.png)
 
-
-Complete hardware specs:
-- i7 10700k 3.8GHz
+## Complete hardware specs:
+- Intel i7 10700k 3.8GHz
 - Gigabyte Z490 Vision G
-- DWA-131E1
-- 32GB RAM - 3200 MHz DDR4
+- DWA-131E1 (USB wifi dongle for now)
+- 32GB RAM - 3200 MHz DDR4 (Corsair LPX)
 - 1TB Samsung 970 EVO NVMe PCIe SSD (macOS Partition) + 1TB Seagate HDD (Windows Partition)
 
 **SMBIOS**: iMac20,2
 
-The system dual boots Windows 10
+The system dual boots Windows 10 on a separate drive
 
 ## What works
 - macOS Catalina
@@ -27,9 +26,10 @@ The system dual boots Windows 10
 - HDMI from internal graphics 5DP not tested)
 - All USB ports
 - 2.5Gbit Ethernet
-- Everything iCloud related (Drive, iMessage, Facetime, unlock with Apple Watch, etc)
+- iCloud related (iMessage, Facetime, etc)
+- Logic Pro X (no stability issue)
 - Temperature monitoring
-- DRM content (Netflix, ATV+, Airplay 2 mirroring etc)
+- DRM content (Netflix, Spotify)
 - Shutdown/Reboot
 - Sleep/Wake-up (issue with my display: needs to be power-off and on)
 
