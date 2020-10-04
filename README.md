@@ -37,7 +37,7 @@ The system dual boots Windows 10 on a separate drive
 - Temperature monitoring
 - DRM content (Netflix, Spotify)
 - Shutdown/Reboot
-- Sleep/Wake-up (issue with my display: needs to be power-off and on)
+- Sleep/Wake-up (issue with my display: needs to be power-off and on) => FIXED BY ADDING BOOT-ARGS: igfxonln=1)
 
 ## BIOS config:
 **Disable**
@@ -64,9 +64,7 @@ The system dual boots Windows 10 on a separate drive
 
 ## Issues:
 
-For now, the only issue is wake-up feature. From sleep state, it wakes up from Mouse, Keyboard or power button but screen stay black. 
-Need to do a power cycle on the screen ONLY and it's good.
-
+No known issue for now. A little bit long to boot after OC menu (around: 22sec before logging screen)
 
 ## Thanks/Credits
 - [SchmockLord](https://github.com/SchmockLord/Hackintosh-Intel-i9-10900k-Gigabyte-Z490-Vision-D)
