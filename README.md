@@ -4,6 +4,8 @@
 
 **Current OpenCore**: 0.6.1
 
+**Z490 vision G bios version**: F7
+
 ![About this mac](screenshot/mac-info.png)
 
 ![HW overview](screenshot/hw-over.png)
@@ -32,6 +34,16 @@ The system dual boots Windows 10 on a separate drive
 - DRM content (Netflix, Spotify)
 - Shutdown/Reboot
 - Sleep/Wake-up (issue with my display: needs to be power-off and on)
+
+## BIOS config:
+**Disable**
+- Fast Boot
+- CSM
+- Secure Boot
+
+**Enable**
+EHCI/XHCI Hand-off
+Above 4G decoding
 
 ## Kexts used:
 - AppleALC (audio)
