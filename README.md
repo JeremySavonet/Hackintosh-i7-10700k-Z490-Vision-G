@@ -7,10 +7,12 @@
 **Z490 vision G bios version**: F7
 
 <p align="center">
-![About this mac](screenshot/mac-info.png)
+  <img src="https://github.com/JeremySavonet/Hackintosh-i7-10700k-Z490-Vision-G/blob/main/screenshot/mac-info.png" />
 </p>
 
-![HW overview](screenshot/hw-over.png)
+<p align="center">
+  <img src="https://github.com/JeremySavonet/Hackintosh-i7-10700k-Z490-Vision-G/blob/main/screenshot/hw-over.png" />
+</p>
 
 ## Complete hardware specs:
 - Intel i7 10700k 3.8GHz
