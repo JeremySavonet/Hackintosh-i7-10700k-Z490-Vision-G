@@ -6,7 +6,9 @@
 
 **Z490 vision G bios version**: F7
 
+<p align="center">
 ![About this mac](screenshot/mac-info.png)
+</p>
 
 ![HW overview](screenshot/hw-over.png)
 
