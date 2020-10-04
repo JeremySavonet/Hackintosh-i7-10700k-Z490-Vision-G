@@ -4,6 +4,11 @@
 
 **Current OpenCore**: 0.6.1
 
+![About this mac](screenshot/mac-info.png)
+
+![HW overview](screenshot/hw-over.png)
+
+
 Complete hardware specs:
 - i7 10700k 3.8GHz
 - Gigabyte Z490 Vision G
