@@ -5,11 +5,9 @@
 **Current OpenCore**: 0.6.1
 
 **Z490 vision G bios version**: F7
-
 <p align="center">
   <img src="https://github.com/JeremySavonet/Hackintosh-i7-10700k-Z490-Vision-G/blob/main/screenshot/mac-info.png" />
 </p>
-
 <p align="center">
   <img src="https://github.com/JeremySavonet/Hackintosh-i7-10700k-Z490-Vision-G/blob/main/screenshot/hw-over.png" />
 </p>
@@ -17,7 +15,6 @@
 ## Complete hardware specs:
 - Intel i7 10700k 3.8GHz
 - Gigabyte Z490 Vision G
-- DWA-131E1 (USB wifi dongle for now)
 - 32GB RAM - 3200 MHz DDR4 (Corsair LPX)
 - 1TB Samsung 970 EVO NVMe PCIe SSD (macOS Partition) + 1TB Seagate HDD (Windows Partition)
 
@@ -29,7 +26,7 @@ The system dual boots Windows 10 on a separate drive
 - macOS Catalina
 - WiFi
 - Audio
-- HDMI from internal graphics 5DP not tested)
+- HDMI from internal graphics (DP not tested)
 - All USB ports
 - 2.5Gbit Ethernet
 - iCloud related (iMessage, Facetime, etc)
@@ -37,7 +34,7 @@ The system dual boots Windows 10 on a separate drive
 - Temperature monitoring
 - DRM content (Netflix, Spotify)
 - Shutdown/Reboot
-- Sleep/Wake-up (issue with my display: needs to be power-off and on) => FIXED BY ADDING BOOT-ARGS: igfxonln=1)
+- Sleep/Wake-up (issue with my display: needs to be power-off and on) => **FIXED BY ADDING BOOT-ARGS: igfxonln=1**
 
 ## BIOS config:
 **Disable**
