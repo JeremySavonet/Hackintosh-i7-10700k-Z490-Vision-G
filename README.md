@@ -42,8 +42,8 @@ The system dual boots Windows 10 on a separate drive
 - Secure Boot
 
 **Enable**
-EHCI/XHCI Hand-off
-Above 4G decoding
+- EHCI/XHCI Hand-off
+- Above 4G decoding
 
 ## Kexts used:
 - AppleALC (audio)
