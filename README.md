@@ -52,7 +52,6 @@ The system dual boots Windows 10 on a separate drive
 - FakePCIID
 - FakePCIID_Intel_I225-V (ethernet)
 - FakePCIID_Intel_HDMI_Audio (optional, support for audio via HDMI)
-- DAGPM (better dGPU performance for 5700xt: here for futur use)
 
 ## Drivers used:
 - OpenCanopy.efi for GUI
