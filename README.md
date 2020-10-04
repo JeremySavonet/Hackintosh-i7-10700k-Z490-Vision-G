@@ -47,6 +47,12 @@ The system dual boots Windows 10 on a separate drive
 - OpenRuntime.efi
 - HFSPlus
 
+## Issues:
+
+For now, the only issue is wake-up feature. From sleep state, it wakes up from Mouse, Keyboard or power button but screen stay black. 
+Need to do a power cycle on the screen ONLY and it's good.
+
+
 ## Thanks/Credits
 - [SchmockLord](https://github.com/SchmockLord/Hackintosh-Intel-i9-10900k-Gigabyte-Z490-Vision-D)
 - [rursache](https://github.com/rursache/Hackintosh-i9-10900k-Z490-Vision-G)
