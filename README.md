@@ -2,7 +2,7 @@
 
 **Latest working macOS**: 10.15.7
 
-**Current OpenCore**: 0.6.1
+**Current OpenCore**: 0.6.3
 
 **Z490 vision G bios version**: F7
 <p align="center">
@@ -17,6 +17,7 @@
 - Gigabyte Z490 Vision G
 - 32GB RAM - 3200 MHz DDR4 (Corsair LPX)
 - 1TB Samsung 970 EVO NVMe PCIe SSD (macOS Partition) + 1TB Seagate HDD (Windows Partition)
+- Sapphire Pulse RX 5600 XT
 
 **SMBIOS**: iMac20,2
 
@@ -66,3 +67,4 @@ No known issue for now. A little bit long to boot after OC menu (around: 22sec b
 ## Thanks/Credits
 - [SchmockLord](https://github.com/SchmockLord/Hackintosh-Intel-i9-10900k-Gigabyte-Z490-Vision-D)
 - [rursache](https://github.com/rursache/Hackintosh-i9-10900k-Z490-Vision-G)
+- Tonymacx86
